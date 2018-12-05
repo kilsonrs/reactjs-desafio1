@@ -1,0 +1,25 @@
+{
+  "window.titleBarStyle": "custom",
+  "git.ignoreMissingGitWarning": true,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Dracula",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "emmet.includeLanguages": {
+    "nunjucks": "html"
+  },
+  "git.autofetch": true,
+  "cSpell.language": "en,pt-BR",
+  "explorer.confirmDragAndDrop": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true
+}
