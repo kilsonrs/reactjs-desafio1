@@ -1,0 +1,37 @@
+.avatar {
+  float: left;
+  width: 10%;
+  padding: 10px;
+  height: 75px; /* Should be removed. Only for demonstration */
+}
+.author {
+  float: left;
+  width: 80%;
+  padding: 10px;
+  height: 75px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding: 0 10px;
+}
+strong {
+  color: #828282;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: #b2b2b2;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+  color: #3d3d3d;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
